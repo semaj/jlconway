@@ -6,6 +6,9 @@
 
 body {
     text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.5px;
+    font-weight: 200;
 }
 
 .title {
@@ -16,11 +19,22 @@ body {
 }
 
 .title2 {
+    font-weight: 300;
     font-size: 25px;
     margin: 10px;
+}
+
+a {
+    text-decoration: none;
 }
 
 .text {
     margin: auto;
     width: 60%;
+    font-size: 15px;
+}
+
+.mini {
+    font-size:10px;
+    margin-bottom: -20px;
 }

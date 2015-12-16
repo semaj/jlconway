@@ -2,7 +2,7 @@ var conway;
 var ctx;
 var timer;
 var theGrid;
-var CELL_SIZE = 3;
+var CELL_SIZE = 2;
 var NUM_CELLS = 300 / CELL_SIZE;
 
 function init() {
